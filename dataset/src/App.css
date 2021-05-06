@@ -1,0 +1,30 @@
+.datasection {
+  margin: auto;
+  border: 2px solid rgba(0, 0, 0, 0.322);
+  padding: 2%;
+  width: fit-content;
+}
+.inputbox {
+  padding: 2% 10%;
+  margin: 2%;
+}
+.input2 {
+  outline: none;
+  border: none;
+}
+.filterbox .filtersection {
+  margin-left: 2%;
+  color: rgba(0, 0, 0, 0.63);
+}
+
+.colors {
+  margin: 2% 2%;
+  font-size: 1.3rem;
+}
+
+.checkboxdata {
+  margin: 1% 2%;
+}
+.count {
+  padding-left: 2%;
+}
